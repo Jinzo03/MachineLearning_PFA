@@ -10,7 +10,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 
 
-dataset_path = r"iot_equipment_monitoring_dataset.csv"  
+dataset_path = r"dataset1\iot_equipment_monitoring_dataset.csv"  
 
 df = pd.read_csv(dataset_path)
 
@@ -28,3 +28,7 @@ print(df.head(10))
 # Check for missing values
 #print("\n❌ Missing values per column:")
 #print(df.isnull().sum())
+
+
+
+
