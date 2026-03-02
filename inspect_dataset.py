@@ -7,6 +7,9 @@ print("\nDtypes:")
 print(df.dtypes)
 print("\nFirst 5 rows:")
 print(df.head())
+# Check for missing values
+print("\n Missing values per column:")
+print(df.isnull().sum())
 
 # list object columns and value counts sample
 obj_cols = [c for c in df.columns if df[c].dtype == 'object']
