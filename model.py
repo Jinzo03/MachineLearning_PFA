@@ -16,7 +16,7 @@ df = pd.read_csv(dataset_path)
 
 
 # Basic exploration
-print("📊 Dataset Preview:")
+print(" Dataset Preview:")
 print(df.head(10))
 
 #print("\n📄 Dataset Info:")
@@ -26,7 +26,7 @@ print(df.head(10))
 #print(df.describe(10))
 
 # Check for missing values
-#print("\n❌ Missing values per column:")
+#print("\n Missing values per column:")
 #print(df.isnull().sum())
 
 
