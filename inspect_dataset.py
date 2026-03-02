@@ -1,4 +1,3 @@
-
 import pandas as pd
 path = "dataset1\\iot_equipment_monitoring_dataset.csv"
 # read only few rows to be fast
