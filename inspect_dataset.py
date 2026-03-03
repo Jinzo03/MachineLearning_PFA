@@ -20,3 +20,4 @@ for c in obj_cols:
         print(df[c].value_counts().head(10))
     except Exception as e:
         print("  error:", e)
+#iyed jloud
