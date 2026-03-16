@@ -20,7 +20,7 @@ KNN_NEIGHBORS = 5
 # Protection / preservation:
 # exact column names (case-sensitive) you never want dropped or turned into UNKNOWN
 PRESERVE_COLUMNS: List[str] = [
-    "fault_type", "fault typ", "fault", "label", "Sensor_ID"
+    "fault_type", "fault type", "fault", "label", "Sensor_ID"
 ]
 # regex patterns: if a column name matches any pattern, preserve it
 PRESERVE_REGEX = [r"fault", r"type", r"status", r"fault[_\s]?typ"]
