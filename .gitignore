@@ -3,3 +3,5 @@ model.py
 /outputs_v6b
 /dataset2
 /dataset1
+model_esp32.c
+scaler_params.h
