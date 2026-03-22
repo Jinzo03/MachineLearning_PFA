@@ -1,8 +1,8 @@
 /*
- * Modele : Random Forest
- * Accuracy : 0.9231
- * Entrees  : 45 caracteristiques
- * Sorties  : 0=Normal, 1=Surcharge, 2=Court-circuit
+ * Modele de classification : Random Forest
+ * Accuracy sur le jeu de test : 0.9231
+ * Nombre de caracteristiques en entree : 45
+ * Classes de sortie : 0=Normal, 1=Surcharge, 2=Court-circuit
  */
 
 #include <string.h>

@@ -1,3 +1,9 @@
+/*
+ * Parametres de normalisation StandardScaler
+ * Nombre de caracteristiques : 45
+ * Formule : x_norm = (x - mean) / scale
+ */
+
 #ifndef SCALER_PARAMS_H
 #define SCALER_PARAMS_H
 
