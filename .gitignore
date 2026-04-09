@@ -7,5 +7,3 @@ model_esp32.c
 scaler_params.h
 outputs_binary_real/
 outputs_binary/
-model_esp32_reel.c
-scaler_params_reel.h

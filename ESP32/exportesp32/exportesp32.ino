@@ -9,7 +9,7 @@
 
 // ── Déclaration de la fonction du modèle ─────────────────────────
 // (définie dans model_esp32_reel.c)
- #include "model_esp32_reel.h"
+#include "model_esp32_reel.h"
 
 // ── Broches ESP32 ────────────────────────────────────────────────
 #define PIN_TENSION  34   // ADC1 — diviseur de tension
