@@ -4,7 +4,8 @@
 #define N_FEATURES  30
 #define N_CLASSES   2
 #define WINDOW_SIZE 30
-#define STRIDE      15
+#define STRIDE      15 // 2 si voulais plus des données plus rapide mais moins précis
+
 
 /* Features dans l'ordre :
  * [00] Tension_Mean
