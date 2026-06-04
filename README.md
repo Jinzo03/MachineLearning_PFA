@@ -254,10 +254,6 @@ Scaler parameters were extracted manually and written into the corresponding `.h
 
 ---
 
-## 📄 License
+##  License
 
 This project is released for academic and educational purposes.
-
----
-
-*Built as part of a TinyML project — ENSTAB, Advanced Technologies Program.*
